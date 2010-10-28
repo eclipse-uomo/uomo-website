@@ -17,11 +17,11 @@
 <h2>$pageTitle</h2>
 <p>All downloads are provided under the terms and conditions of the <a href="/legal/epl/notice.php">Eclipse Foundation Software User Agreement</a> unless otherwise specified.</p>
 
-<h3>Galileo - Eclipse 3.5</h3>
+<h3>Helios - Eclipse 3.6</h3>
 <p><b>Update site:</b> http://download.eclipse.org/myproject/<br />
 <b>ZIP file: </b><a href="/downloads/download.php?file=/myproject/file.zip">file.zip</a> (10 MiB)</p>
 
-<h3>Helios - Eclipse 3.6 (unreleased)</h3>
+<h3>Indigo - Eclipse 3.7 (unreleased)</h3>
 <p><b>Update site:</b> http://download.eclipse.org/myproject/<br />
 <b>ZIP file: </b><a href="/downloads/download.php?file=/myproject/file.zip">file.zip</a> (10 MiB)</p>
 
