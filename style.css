@@ -1,84 +1,83 @@
 @CHARSET "UTF-8";
 #novaContent {
-	background: url("images/backgroundMainEmpty.png") no-repeat;
-	padding-top: 210px;
+    background: #FFFFFF url("images/backgroundMain.png") no-repeat;
+    padding-top: 195px;
 }
 
 #midcolumn {
-	width: 640px;
-	padding: 0 10px 10px 10px;
+    width: 640px;
+    padding: 0 10px 10px 10px;
 }
 
 #rightcolumn {
-	width: 260px;
+    width: 260px;
 }
 
 
 h3 {
-	clear: both;
+    clear: both;
 }
 
 h7 {
-	font-weight: bold;
-	padding: 5px;
+    font-weight: bold;
+    padding: 5px;
 }
 
 a strong {
-	text-decoration: underline;
-}
-
-
-#novaContent {
-	background: url("images/backgroundMainEmpty.png") no-repeat white;
-	padding-top: 170px;
+    text-decoration: underline;
 }
 
 #introText p.left {
-	width: 48%;
-	float: left;
+    width: 48%;
+    float: left;
 }
 
 #introText p.right {
-	width: 48%;
-	float: right;
+    width: 48%;
+    float: right;
 }
 
 #feature_1 {
-	float: left;
-	width: 30%;
-	margin-right: 3%;
+    float: left;
+    width: 30%;
+    margin-right: 3%;
 }
 
 #feature_2 {
-	float: left;
-	width: 30%;
-	margin-right: 3%
+    float: left;
+    width: 30%;
+    margin-right: 3%
 }
 
 #feature_3 {
-	float: left;
-	width: 30%;
+    float: left;
+    width: 30%;
 }
 
 #feature_4 {
-	clear: both;
-	float: left;
-	width: 63%;
-	margin-right: 3%;	
+    float: left;
+    width: 30%;
+    margin-right: 3%;
 }
 
-#feature_more {
-	float: left;
-	width: 30%;
+#feature_5 {
+    float: left;
+    width: 30%;
+    margin-right: 3%
 }
-	
+
+#feature_6 {
+    float: left;
+    width: 30%;
+}
+    
 #bigbuttons {
-	position: relative;
-	left: 420px;
-	top: -170px;
+    position: relative;
+    left: 420px;
+    top: -200px;
 }
 #bigbuttons h3{
-	visibility: hidden;
+    visibility: hidden;
 }
 
 #bigbuttons a {
@@ -93,7 +92,7 @@ a strong {
 }
 
 #bigbuttons a:hover {
-	text-decoration: none;
+    text-decoration: none;
 }
 
 #bigbuttons a {
@@ -147,36 +146,36 @@ a strong {
 }
 
 #bigbuttons a * {
-	visibility: hidden;
+    visibility: hidden;
 }
 
 #headlines {
 }
 
 #headlines ul li {
-	margin: 0 0;
-	list-style-type: none;
-	list-style-image: none;
+    margin: 0 0;
+    list-style-type: none;
+    list-style-image: none;
 }
 
-	
+    
 #headlines div.title {
-	display: inline;
-	margin-right: 0.5em;
+    display: inline;
+    margin-right: 0.5em;
 }
 
 #headlines div.meta {
-	display: inline;
-	color: #444444;
-	font-size: smaller;  
+    display: inline;
+    color: #444444;
+    font-size: smaller;  
 }
 
 #headlines div.item {
-	display: block;
-	}
-	
+    display: block;
+    }
+    
 #screencast {
-	margin-bottom: 10px;
+    margin-bottom: 10px;
 }
 
 #newAndNoteworthy a {
