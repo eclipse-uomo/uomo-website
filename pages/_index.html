@@ -13,12 +13,10 @@
 </div>
 
 <div id="midcolumn">
-<h3>MyProject - use this header describe what it does</h3>
+<h3>What is it?</h3>
 <div id="introText">
 
-<p class="left">MyProject is a framework for development of cool stuff and
-more cool stuff. Just describe your project here very briefly. Use the center 
-section below for a screenshot, a screenshot collage or a screencast.</p>
+<p class="left">UOMo adds <strong>Units of Measurement</strong> support for software development both on a <strong>language</strong> and <strong>data</strong> level.</p>
 
 <p class="right"> This project was just provisioned.  You can see the proposal 
 <a href="/proposals/uomo">here</a>
@@ -30,7 +28,11 @@ section below for a screenshot, a screenshot collage or a screencast.</p>
  
 
 <div id="screencast">
+<!--
 <object width="640" height="480"><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=8260921&amp;server=vimeo.com&amp;show_title=0&amp;show_byline=0&amp;show_portrait=0&amp;color=DBD7EF&amp;fullscreen=1" /><embed src="http://vimeo.com/moogaloop.swf?clip_id=8260921&amp;server=vimeo.com&amp;show_title=0&amp;show_byline=0&amp;show_portrait=0&amp;color=DBD7EF&amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="640" height="480"></embed></object>
+-->
+<img src="../images/Vitruvian_Man_Measurements.png"/>
+
 </div>
 
 <!-- 
@@ -38,31 +40,40 @@ section below for a screenshot, a screenshot collage or a screencast.</p>
  -->
 <div id="feature_1">
 
-<h4>Some cool feature</h4>
-<p>MyProject has this really cool feature that you describe here in few words, just as a teaser.</p>
+<h4>Motivation</h4>
+<p><span class="Apple-style-span" style="border-collapse: separate; color: rgb(0, 0, 0); font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-border-horizontal-spacing: 0px; -webkit-border-vertical-spacing: 0px; -webkit-text-decorations-in-effect: none; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;"><span class="Apple-style-span" style="line-height: 16px;">Developers frequently encounter the need to model units<span class="Apple-converted-space">&nbsp;</span><span class="searchword">of</span><span class="Apple-converted-space">&nbsp;</span>measurement, because objects in the real world are subject to these measures. When working with units, developers need to understand the mathematics<span class="Apple-converted-space">&nbsp;</span><span class="searchword">of</span><span class="Apple-converted-space">&nbsp;</span>units, how to convert between systems, and how to format and parse string representations<span class="Apple-converted-space">&nbsp;</span><span class="searchword">of</span><span class="Apple-converted-space">&nbsp;</span>units. Most<span class="Apple-converted-space">&nbsp;</span><span class="searchword">of</span><span class="Apple-converted-space">&nbsp;</span>this work can be consolidated into one or two Java packages, which is a primary aim<span class="Apple-converted-space">&nbsp;</span><span class="searchword">of</span><span class="Apple-converted-space">&nbsp;</span>this project. This project will help developers create safe, correct s<span class="searchword">of</span>tware to deal with common problem<span class="Apple-converted-space">&nbsp;</span><span class="searchword">of</span><span class="Apple-converted-space">&nbsp;</span>modeling units.</span></span></p>
 </div>
 
 <div id="feature_2">
-<h4>Another Feature</h4>
-<p>When working with MyProject, great things happen, and one of them is described here.</p>
+<h4>Language</h4>
+<ul>
+  <li>Implementing Units of Measurement API</li>
+  <ul>
+    <li>Strong Unit Typing (Compile time support)</li>
+    <li>Financial API based on general Units of Measurement implementation </li>
+  </ul>
+</ul>
+<blockquote>
+  <p>The focus of the project is on <strong>Java</strong> implementations, but other languages both on the JVM or outside will be supported as appropriate, desired and/or contributed.</p>
+</blockquote>
 </div>
 
 <div id="feature_3">
-<h4>Another Feature</h4>
-<p>When working with MyProject, great things happen, and one of them is described here.</p>
-</div>
-
-<div id="feature_4">
-<h4>User Experience</h4>
-<p>
-Experiment with style.css to create columns for text, just the way you want it. This section 
-is a bit wider and can contain more words, even small logos or graphics to describe a neat feature in more detail.</p>
+<h4>Data</h4>
+<ul>
+  <li>Basic implementation of <a href="http://www.unitsofmeasure.org">UCUM</a> Logic for use in any context</li>
+  <li>Help to incorporate units into <a href="http://www.w3.org">W3C</a> standard <a href="http://www.w3.org/TR/mathml-units/">MathML</a></li>
+  <li>Support <a href="http://www.oasis-open.org">OASIS</a> standard <a href="http://unitsml.nist.gov/">Units Markup Language (UnitsML)</a></li>
+</ul>
+<p>&nbsp;</p>
 </div>
 
 <div id="feature_more">
 <h4>and much more...</h4>
 <p>Read the MyProject <a href="/project/documentation.php">documentation</a> and join the discussion at the <a href="http://www.eclipse.org/forums/eclipse.newsgroup.name">forum</a> to understand how powerful MyProject is.</p>
+<!--
 <p> Want to know more? <a href="/projects/project_summary.php?projectid=technology.uomo">About This Project</a>
+-->
 </div>
 
 </div>
@@ -71,7 +82,7 @@ is a bit wider and can contain more words, even small logos or graphics to descr
 
 <div>
 <h3>Current Status</h3>
-<p>Update this section occasionally to let your community know what's new and exciting with your project....</p>
+<p>Initial codebase is currently contributed into the Git repository at Eclipse.org </p>
 </div>
 
 <div id="headlines">
