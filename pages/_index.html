@@ -1,94 +1,80 @@
+
 <div id="bigbuttons">
 <h3>Primary Links</h3>
 <ul>
-  <li>
-    <a id="buttonDownload" href="downloads/index.php" title="Download">Eclipse Distribution, Update Site, Dropins</a>
-  </li>
-  <li>
-    <a id="buttonDocumentation" href="documentation/index.php" title="Documentation">Tutorials, Examples, Videos, Reference Documentation</a>
-  </li>
-  <li>
-    <a id="buttonSupport" href="support/index.php" title="Support">Adopter Forum, Bug Tracker</a>
-  </li>
-  <li>
-    <a id="buttonInvolved" href="developers/index.php" title="Getting Involved">CVS, Workspace Setup, Wiki, Committers</a>
-  </li>
+	<li><a id="buttonDownload" href="download.php" title="Download">Eclipse
+	Distribution, Update Site, Dropins</a></li>
+	<li><a id="buttonDocumentation" href="midcolumn_example.php"
+		title="Documentation">Tutorials, Examples, Videos, Reference Documentation</a></li>
+	<li><a id="buttonSupport" href="midcolumn_example.php" title="Download">Bug
+	Tracker, Newsgroup, Professional Support</a></li>
+	<li><a id="buttonInvolved" href="midcolumn_example.php" title="Getting Involved">CVS,
+	Workspace Setup, Wiki, Committers</a></li>
 </ul>
 </div>
 
 <div id="midcolumn">
-
-<h3>Sapphire - develop UI without wiring individual widgets</h3>
+<h3>What is it?</h3>
 <div id="introText">
 
-<p>Little has changed in the way Java desktop UI is written since the original Java release. 
-Technologies have changed (AWT, Swing, SWT, etc.), but fundamentals remain the same. The developer 
-must choose which widgets to use, how to lay those widgets out, how to store the data being edited 
-and how to synchronize the model with the UI. Even the best developers fall into traps of having UI 
-components talk directly to other UI components rather than through the model. Inordinate amount of 
-time is spent debugging layout and data-binding issues.</p>
+<p class="left">UOMo adds <strong>Units of Measurement</strong> support for software development both on a <strong>language</strong> and <strong>data</strong> level.</p>
 
-<p>Sapphire aims to raise UI writing to a higher level of abstraction. The core premise is that the 
-basic building block of UI should not be a widget (text box, label, button, etc.), but rather 
-a property editor. Unlike a widget, a property editor analyzes metadata associated with a given 
-property, renders the appropriate widgets to edit that property and wires up data binding. Data is 
-synchronized, validation is passed from the model to the UI, content assistance is made 
-available, etc.<p>
+<p class="right"> This project was just provisioned.  You can see the proposal 
+<a href="/proposals/uomo">here</a>
 
-<p>This fundamentally changes the way developers interact with a UI framework. Instead of writing 
-UI by telling the system how to do something, the developer tells the system what they intend to 
-accomplish. When using Sapphire, the developer says "I want to edit LastName property of the 
-person object". When using widget toolkits like SWT, the developer says "create label, create 
-text box, lay them out like so, configure their settings, setup data binding and so on". By the 
-time the developer is done, it is hard to see the original goal in the code that's produced. This 
-results in UI that is inconsistent, brittle and difficult to maintain.</p>
+</p>
 
 </div>
 
-<p><a href="images/screenshot-1.png"><img src="images/screenshot-1.png" width="100%"/></a></p>
+ 
 
+<div id="screencast">
+<!--
+<object width="640" height="480"><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=8260921&amp;server=vimeo.com&amp;show_title=0&amp;show_byline=0&amp;show_portrait=0&amp;color=DBD7EF&amp;fullscreen=1" /><embed src="http://vimeo.com/moogaloop.swf?clip_id=8260921&amp;server=vimeo.com&amp;show_title=0&amp;show_byline=0&amp;show_portrait=0&amp;color=DBD7EF&amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="640" height="480"></embed></object>
+-->
+<img src="http://upload.wikimedia.org/wikipedia/commons/c/ca/Vitruvian_Man_Measurements.png" alt="UOMo vitruviano" width="390" height="392" border="0">
+
+</div>
+
+<!-- 
+<h3>...and yet powerful</h3>
+ -->
 <div id="feature_1">
-  <h4>First, The Model</h4>
-  <p>Describe semantics of the data that UI will edit using Java annotations. Model implementation
-    classes are generated on the fly. More details in <a href="http://lt-rider.blogspot.com/2010/06/sapphire.html">documentation</a>.</p>
+
+<h4>Motivation</h4>
+<p><span class="Apple-style-span" style="border-collapse: separate; color: rgb(0, 0, 0); font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-border-horizontal-spacing: 0px; -webkit-border-vertical-spacing: 0px; -webkit-text-decorations-in-effect: none; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;"><span class="Apple-style-span" style="line-height: 16px;">Developers frequently encounter the need to model units<span class="Apple-converted-space">&nbsp;</span><span class="searchword">of</span><span class="Apple-converted-space">&nbsp;</span>measurement, because objects in the real world are subject to these measures. When working with units, developers need to understand the mathematics<span class="Apple-converted-space">&nbsp;</span><span class="searchword">of</span><span class="Apple-converted-space">&nbsp;</span>units, how to convert between systems, and how to format and parse string representations<span class="Apple-converted-space">&nbsp;</span><span class="searchword">of</span><span class="Apple-converted-space">&nbsp;</span>units. Most<span class="Apple-converted-space">&nbsp;</span><span class="searchword">of</span><span class="Apple-converted-space">&nbsp;</span>this work can be consolidated into one or two Java packages, which is a primary aim<span class="Apple-converted-space">&nbsp;</span><span class="searchword">of</span><span class="Apple-converted-space">&nbsp;</span>this project. This project will help developers create safe, correct s<span class="searchword">of</span>tware to deal with common problem<span class="Apple-converted-space">&nbsp;</span><span class="searchword">of</span><span class="Apple-converted-space">&nbsp;</span>modeling units.</span></span></p>
 </div>
 
 <div id="feature_2">
-  <h4>XML Binding</h4>
-  <p>Use included XML binding facilities to describe how model should read and write data
-  from XML. Take advantage of integration with WTP XML edtior to create sophisticated multi-page
-  editors with live bi-directional synchronization between design and source views.</p>
+<h4>Language</h4>
+<ul>
+  <li>Implementing <a href="http://www.unitsofmeasurement.org">Units of Measurement API</a></li>
+  <ul>
+    <li>Strong Unit Typing (Compile time support)</li>
+    <li>Financial API based on general Units of Measurement implementation </li>
+  </ul>
+</ul>
+<blockquote>
+  <p>The focus of the project is on <strong>Java</strong> implementations, but other languages both on the JVM or outside will be supported as appropriate, desired and/or contributed.</p>
+</blockquote>
 </div>
 
 <div id="feature_3">
-<h4>Layer Models</h4>
-<p>Combine information from multiple models into an integrated model. Bring together information
-from many files.<br/><br/><br/><br/><br/><br/></p>
-</div>
-
-<div id="feature_4">
-<h4>Next, The UI</h4>
-<p>Describe how to present the model in UI in via a simple XML file and let Sapphire handle 
-the rest. Embed Sapphire UI anywhere you can create an SWT control. Editors, views, wizards,
-dialogs, etc. all can benefit from Sapphire.<p>
-</div>
-
-<div id="feature_5">
-<h4>Stuff to Forget About</h4>
-<p>Start making a list of stuff that you can now forget about...</p>
+<h4>Data</h4>
 <ul>
-  <li>Creating and laying out widgets.</li>
-  <li>SWT listeners, events and how not to end up in an infinite loop.</li>
-  <li><a href="http://wiki.eclipse.org/index.php/JFace_Data_Binding">JFace Data Binding</a></li>
-  <li>etc...</li>
-</ul>  
+  <li>Basic implementation of <a href="http://www.unitsofmeasure.org">UCUM</a> Logic for use in any context</li>
+  <li>Help to incorporate units into <a href="http://www.w3.org">W3C</a> standard <a href="http://www.w3.org/TR/mathml-units/">MathML</a></li>
+  <li>Support <a href="http://www.oasis-open.org">OASIS</a> standard <a href="http://unitsml.nist.gov/">Units Markup Language (UnitsML)</a></li>
+</ul>
+<p>&nbsp;</p>
 </div>
 
-<div id="feature_6">
-<h4>Other UI Toolkits</h4>
-<p>Currently only SWT presentation is available, but Sapphire UI definitions are not tied to
-a particular toolkit. Other presentations such as Swing, HTML or Flash are possible in the future
-either from this project directly or from adopters.<p>
+<div id="feature_more">
+<h4>and much more...</h4>
+<p><!--Read the UOMo <a href="/project/documentation.php">documentation</a> and j-->Join the discussion at the <a href="http://www.eclipse.org/forums/eclipse.uomo">forum</a> to lern more about UOMo.</p>
+<!--
+<p> Want to know more? <a href="/projects/project_summary.php?projectid=technology.uomo">About This Project</a>
+-->
 </div>
 
 </div>
@@ -102,7 +88,7 @@ either from this project directly or from adopters.<p>
       <img src="http://www.eclipse.org/images/egg-incubation.png" border="0" alt="Incubation"/>
     </a>
   </center>
-  <p>Sapphire is in the <a href="http://www.eclipse.org/projects/dev_process/incubation-phase.php">Incubation Phase</a>.</p>
+  <p>UOMo is in the <a href="http://www.eclipse.org/projects/dev_process/incubation-phase.php">Incubation Phase</a>.</p>
   </div>
 
   <div id="headlines">
@@ -110,4 +96,9 @@ either from this project directly or from adopters.<p>
   <p>Project created on 2010-10-20.</p>
   </div>
 
+<div id="headlines">
+<h3>Famous quotes</h3>
+<p><strong>"Questo &egrave; un piccolo passo per l'uomo ... uno ... balzo gigantesco per l'umanit&agrave;"</strong><br>
+<em>(Neil Armstrong, July 21st, 1969) </em></p>
+</div>
 </div>
