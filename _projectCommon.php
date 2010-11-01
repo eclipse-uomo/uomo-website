@@ -30,6 +30,7 @@
 	$Nav->addCustomNav("Documentation", "/uomo/documentation.php", "_blank", 3);
 	# $Nav->addCustomNav("Support", "/uomo/support.php", "_blank", 3);
 	# $Nav->addCustomNav("Getting Involved", "/uomo/developers", "_blank", 3);
+	$Nav->addCustomNav("Wiki", "http://wiki.eclipse.org/UOMo", "_blank", 3);
 
 	# Define keywords, author and title here, or in each PHP page specifically
 	$pageKeywords	= "xtext, dsl, modeling, domain specific language, textual";
