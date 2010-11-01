@@ -25,7 +25,7 @@
 	# $Nav->setLinkList(array());
 	
 	# Break the navigation into sections
-	$Nav->addNavSeparator("UOMo", 	"/default");
+	$Nav->addNavSeparator("UOMo", 	"/uomo");
 	$Nav->addCustomNav("Download", "/uomo/download.php", "_self", 3);
 	$Nav->addCustomNav("Documentation", "/uomo/documentation.php", "_blank", 3);
 	# $Nav->addCustomNav("Support", "/uomo/support.php", "_blank", 3);
