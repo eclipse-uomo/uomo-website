@@ -10,7 +10,7 @@
  *    
  *******************************************************************************/
 
-	$pageTitle 		= "MyProject - Download";
+	$pageTitle 		= "UOMo - Download";
 
 	$html  = <<<EOHTML
 <div id="midcolumn">

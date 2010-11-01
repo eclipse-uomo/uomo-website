@@ -25,16 +25,16 @@
 	# $Nav->setLinkList(array());
 	
 	# Break the navigation into sections
-	$Nav->addNavSeparator("MyProject", 	"/default");
-	$Nav->addCustomNav("Download", "/project/download.php", "_self", 3);
-	$Nav->addCustomNav("Documentation", "/project/documentation.php", "_blank", 3);
-	$Nav->addCustomNav("Support", "/project/support.php", "_blank", 3);
-	$Nav->addCustomNav("Getting Involved", "/project/developers", "_blank", 3);
+	$Nav->addNavSeparator("UOMo", 	"/default");
+	$Nav->addCustomNav("Download", "/uomo/download.php", "_self", 3);
+	$Nav->addCustomNav("Documentation", "/uomo/documentation.php", "_blank", 3);
+	# $Nav->addCustomNav("Support", "/uomo/support.php", "_blank", 3);
+	# $Nav->addCustomNav("Getting Involved", "/uomo/developers", "_blank", 3);
 
 	# Define keywords, author and title here, or in each PHP page specifically
 	$pageKeywords	= "xtext, dsl, modeling, domain specific language, textual";
-	$pageAuthor		= "Your name";
-	# $pageTitle 		= "Xtext";
+	$pageAuthor		= "Werner Keil";
+	# $pageTitle 		= "UOmo";
 
 
 	# top navigation bar
