@@ -23,10 +23,6 @@
     width: 144px;
 }
 
-#novaContent.faux  {
-    background: url("/virgo/images/faux.png") repeat-y scroll 0 0 #FFFFFF;
-}
-
 a {
     color: #002E62;
 }
@@ -47,7 +43,7 @@ a:hover {
 }
 
 #novaContent li {
-    list-style-image: url("/virgo/images/bullet.png");
+    list-style-image: url("/uomo/images/bullet.png");
 }
 
 .toggle {
