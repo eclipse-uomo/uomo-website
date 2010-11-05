@@ -49,6 +49,7 @@
 	
 	# To define additional CSS or other pre-body headers
 	$App->AddExtraHtmlHeader('<link rel="stylesheet" type="text/css" href="/uomo/style.css"/>');
+	$App->AddExtraHtmlHeader('<link media="screen" rel="stylesheet" type="text/css" href="/uomo/screen.css"/>');
 	
 	# To enable occasional Eclipse Foundation Promotion banners on your pages (EclipseCon, etc)
 	$App->Promotion = TRUE;
