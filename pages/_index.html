@@ -96,6 +96,37 @@
   <p>Project created on 2010-10-20.</p>
   </div>
 
+        <div class="sideitem">
+            <div align="left" id="twtr-search-widget"></div>
+            <script src="http://widgets.twimg.com/j/1/widget.js"></script>
+            <link href="http://widgets.twimg.com/j/1/widget.css" type="text/css" rel="stylesheet">
+            <script>
+                new TWTR.Widget({
+                  search: '#eclipseuomo',
+                  id: 'twtr-search-widget',
+                  loop: true,
+                  title: 'What\'s being said about...',
+                  subject: '#EclipseUOMo',
+                  width: 240,
+                  height: 400,
+                  theme: {
+                    shell: {
+                      background: '#002E62',
+                      color: '#ffffff'
+                    },
+                    tweets: {
+                      background: '#ffffff',
+                      color: '#444444',
+                      links: '#002E62'
+                    }
+                  }
+                }).render().start();
+            </script>
+            <br/><font size=-1>Follow: <a href="http://twitter.com/glynnormington">Glyn Normington</a> (lead)
+            <br/>Follow: <a href="http://twitter.com/cgfrost">Christopher Frost</a></font>
+        </div>
+
+
 <div id="headlines">
 <h3>Famous quotes</h3>
 <p>"Questo &egrave; un piccolo passo per l'<strong>uomo</strong> ... uno ... balzo gigantesco per l'umanit&agrave;"<br>
