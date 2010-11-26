@@ -40,7 +40,7 @@
      - page of the first product. Multiple <product>s are allowed.
     -->
   <bugzilla>
-    <product name="Phoenix"/>
+    <product name="UOMo"/>
   </bugzilla>
 
   <!--
@@ -50,7 +50,7 @@
      - they are the project leaders.  The <team> element contains the 
      - URL of the project's pages listing these important people.
     -->
-  <team url="/phoenix/about.php" />
+  <team url="/uomo/about.php" />
   
   <!--
      - The source code of each Eclipse project is stored in CVS. Eclipse maintains
@@ -66,7 +66,7 @@
      -     </cvs>
     -->
   <cvs repository="/cvsroot/technology/">
-    <module path="org.eclipse.phoenix" /> 
+    <module path="org.eclipse.uomo" /> 
   </cvs>
 
   <!--
@@ -84,8 +84,8 @@
      -       This file is often stored in the /project-info/ directory, thus the
      -       url would be something like "/tptp/project-info/description.html".
     -->
-  <description url="/phoenix/about.php"
-     paragraph-url="/phoenix/project-info/project-page-paragraph.html"/>
+  <description url="/uomo/about.php"
+     paragraph-url="/uomo/project-info/project-page-paragraph.html"/>
   
   <!--
      - In addition to the description, each Eclipse project is also required to
@@ -97,7 +97,7 @@
      - This file is often stored in the /project-info/ directory, thus the
      - url would be something like "/technology/project-info/executive-summary.html".
     -->
-  <summary paragraph-url="/technology/phoenix/project-info/executive-summary.html"/>
+  <summary paragraph-url="/technology/uomo/project-info/executive-summary.html"/>
 
   <!--
      - It is important to help new users get started with an Eclipse project
@@ -106,7 +106,7 @@
      - points to a web page on the project's site that describes how to
      - get started using and extending the project's tools and frameworks.
     -->
-  <getting-started url="/phoenix/docs/" />
+  <getting-started url="/uomo/docs/" />
   
   <!--
      - It is also important to help new contributors get started with an Eclipse project.
@@ -115,7 +115,7 @@
      - points to a web page on the project's site that describes how to
      - get started developing on, and contributing to, the project.
     -->
-  <contributing url="/phoenix/docs/" />
+  <contributing url="/uomo/docs/" />
   
   <!--
      - Each Eclipse project is required to maintain a current Project IP Log.
@@ -140,7 +140,7 @@
      - the separate project-info/maillist file as well.
     -->
   <mailing-lists>
-    <list name="phoenix-dev"/>
+    <list name="uomo-dev"/>
   </mailing-lists>
   
   <!--
@@ -153,7 +153,7 @@
      - newsgroups page. Multiple <newsgroups>s are allowed.
     -->
   <newsgroups>
-    <newsgroup name="eclipse.technology.phoenix" />
+    <newsgroup name="eclipse.uomo" />
   </newsgroups>
   
   <!--
