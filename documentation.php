@@ -23,7 +23,7 @@
 
 <h3>UOMo UCUM</h3>
 <p><b>Conference site:</b> <a href="http://epicenter.ie/2010.html?zone_id=20&mode=agenda&session=143#session">UCUM at epicenter 2010</a><br/>
-<b>PDF file: </b><a href="../presentations/UOMo_UCUM2010.pdf">UOMo_UCUM2010.pdf</a> (1.16 MB)</p>
+<b>PDF file: </b><a href="/uomo/presentations/UOMo_UCUM2010.pdf">UOMo_UCUM2010.pdf</a> (1.16 MB)</p>
 
 
 <h3>JSR-275 (Background)</h3>
