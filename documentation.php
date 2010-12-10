@@ -21,6 +21,11 @@
 <p><b>Wiki site:</b> <a href="http://wiki.eclipse.org/Eclipse_Embedded_Day_Stuttgart_2010">Eclipse_Embedded_Day_Stuttgart_2010</a><br/>
 <b>PDF file: </b><a href="http://wiki.eclipse.org/images/6/6a/UOMo_Embedded2010.pdf">UOMo_Embedded2010.pdf</a> (1.15 MB)</p>
 
+<h3>UOMo UCUM</h3>
+<p><b>Conference site:</b> <a href="http://epicenter.ie/2010.html?zone_id=20&mode=agenda&session=143#session">UCUM at epicenter 2010</a><br/>
+<b>PDF file: </b><a href="../presentations/UOMo_UCUM2010.pdf">UOMo_UCUM2010.pdf</a> (1.16 MB)</p>
+
+
 <h3>JSR-275 (Background)</h3>
 <p>
 <b>German Article for Java Magazin: </b><a href="http://ikayzo.org/svn/JSR275/trunk/jsr-275/doc/de/keil_jsr-275.doc">Keil_JSR275.doc</a> (102 kB)</p>
