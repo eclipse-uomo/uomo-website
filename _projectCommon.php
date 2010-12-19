@@ -29,9 +29,9 @@
 	$Nav->addCustomNav("Download", "/uomo/download.php", "_self", 3);
 	$Nav->addCustomNav("Documentation", "/uomo/documentation.php", "_self", 3);
 	# $Nav->addCustomNav("Support", "/uomo/support.php", "_blank", 3);
+	$Nav->addCustomNav("Summary", "/projects/project_summary.php?projectid=technology.uomo", "_self", 3);
 	# $Nav->addCustomNav("Getting Involved", "/uomo/developers", "_blank", 3);
 	$Nav->addCustomNav("Wiki", "http://wiki.eclipse.org/UOMo", "_self", 3);
-    $Nav->addCustomNav("Summary", "/projects/project_summary.php?projectid=technology.uomo", "_self", 3);
     
 	# Define keywords, author and title here, or in each PHP page specifically
 	$pageKeywords	= "uomo, unit, measurement, measure, domain specific language, ucum";
