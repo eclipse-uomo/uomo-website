@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<?xml-stylesheet type="text/xsl" href="http://www.eclipse.org/projects/project-plan.xsl"?>
+<plan plan-format="1.0" xmlns="http://www.eclipse.org/project/plan" xmlns:html="http://www.w3.org/1999/xhtml" name="UOMo">
+  <release projectid="org.eclipse.uomo" version="0.6" />
+  <introduction>
+    <html:div xmlns="http://www.w3.org/1999/xhtml">
+      <p>
+        The first goal
+        of
+        <a href="http://www.eclipse.org/uomo">Eclipse UOMo</a>
+        is integration of popular unit standards like UCUM or UnitsML.
+      </p>
+    </html:div>
+  </introduction>
+  <release_deliverables>
+    <html:div xmlns="http://www.w3.org/1999/xhtml">
+      <ul>
+        <li>
+          <b>UOMo Framework</b>
+        </li>
+      </ul>
+    </html:div>
+  </release_deliverables>
+  <release_milestones>
+    <preamble>
+      <html:div xmlns="http://www.w3.org/1999/xhtml">
+        <p>
+          The plan and roadmap dates are listed in the UOMo Calendar
+          (view as
+          <a
+            href="http://www.google.com/calendar/ical/kq3ed9c0latktst29lrl8nffu0%40group.calendar.google.com/public/basic.ics">iCal</a>
+          or
+          <a href="http://eclipse.org/uomo/calendar/">html</a>
+          ) and on the
+          <a href="http://www.eclipse.org/projects/timeline/">Eclipse project timeline</a>
+          .
+        </p>
+      </html:div>
+    </preamble>
+    <milestone date="2011-01-31" milestone="0.6 RC1">
+      <html:div>Release Candidate (API and Feature Complete)</html:div>
+    </milestone>
+    <milestone date="2011-02-07" milestone="0.6 RC2">
+      <html:div>Release Candidate (Final Build)</html:div>
+    </milestone>
+    <milestone date="2011-02-11" milestone="0.6">
+      <html:div>Major Release</html:div>
+    </milestone>
+    <postamble>
+      <html:div xmlns="http://www.w3.org/1999/xhtml">
+        <p>
+          <b>Tentative Plan</b>
+        </p>
+        <p>
+          <table border="1" align="center">
+            <tr>
+              <td>
+                <b>0.7</b>
+              </td>
+              <td>2011-06-22</td>
+              <td>
+                <div>Major Release (Indigo)</div>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <b>0.8</b>
+              </td>
+              <td>2011-11</td>
+              <td>
+                <div>Major Release (Java 7)</div>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <b>1.0</b>
+              </td>
+              <td>2012-06</td>
+              <td>
+                <div>Major Release (Indigo+1)</div>
+              </td>
+            </tr>
+          </table>
+        </p>
+      </html:div>
+    </postamble>
+  </release_milestones>
+  <target_environments>
+    <html:div xmlns="http://www.w3.org/1999/xhtml">
+      <p>
+        Eclipse UOMo follows the
+        <a href="http://eclipse.org/projects/project-plan.php?projectid=uomo#target_environments">target environment</a>
+        guidelines of the UOMo project.
+      </p>
+    </html:div>
+    <internationalization>
+      <html:div xmlns="http://www.w3.org/1999/xhtml">
+      <p>
+        Eclipse UOMo follows the
+        <a href="http://eclipse.org/projects/project-plan.php?projectid=uomo#target_environment">internationalization</a>
+        guidelines of the Babel project.
+      </p>
+      </html:div>
+    </internationalization>
+  </target_environments>
+  <compatibility_with_previous_releases>
+    <html:div xmlns="http://www.w3.org/1999/xhtml">
+      <p>
+        Eclipse UOMo follows the
+        <a href="http://eclipse.org/projects/project-plan.php?projectid=uomo#target_environments">compatibility</a>
+        guidelines of the OHF project where applicable.
+      </p>
+    </html:div>
+  </compatibility_with_previous_releases>
+  <themes_and_priorities>
+    <preamble>
+      <html:div xmlns="http://www.w3.org/1999/xhtml">
+        <p>
+          In addition to using the planned themes listed below, we need to
+          continue prioritizing the ongoing input of
+          our growing user
+          community. Committers should prioritize bugs in the following
+          order. This order needs not be
+          used if a bug contains a community
+          contribution of a patch, in which case the quality of the patch
+          determines
+          the priority.
+				</p>
+        <p>
+          <a
+            href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;short_desc_type=allwordssubstr&amp;short_desc=&amp;classification=UOMo&amp;product=UOMo%20Builds&amp;target_milestone=0.7&amp;long_desc_type=allwordssubstr&amp;long_desc=&amp;bug_file_loc_type=allwordssubstr&amp;bug_file_loc=&amp;status_whiteboard_type=allwordssubstr&amp;status_whiteboard=&amp;keywords_type=allwords&amp;keywords=&amp;emailtype1=substring&amp;email1=&amp;emailtype2=notregexp&amp;email2=&amp;bugidtype=include&amp;bug_id=&amp;votes=&amp;chfieldfrom=&amp;chfieldto=Now&amp;chfieldvalue=&amp;cmdtype=doit&amp;order=Reuse+same+sort+as+last+time&amp;field0-0-0=noop&amp;type0-0-0=noop&amp;value0-0-0=">All bugs scheduled for UOMo Builds 0.6</a>
+          .
+        </p>
+      </html:div>
+    </preamble>
+    <theme name="Framework and API">
+      <description>
+        <html:div xmlns="http://www.w3.org/1999/xhtml" />
+      </description>
+      <committed
+        bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;short_desc_type=allwordssubstr&amp;short_desc=api&amp;classification=Tools&amp;product=UOMo&amp;target_milestone=3.5&amp;long_desc_type=allwordssubstr&amp;long_desc=&amp;bug_file_loc_type=allwordssubstr&amp;bug_file_loc=&amp;status_whiteboard_type=allwordssubstr&amp;status_whiteboard=&amp;keywords_type=allwords&amp;keywords=plan&amp;priority=P1&amp;emailtype1=substring&amp;email1=&amp;emailtype2=notregexp&amp;email2=&amp;bugidtype=include&amp;bug_id=&amp;votes=&amp;chfieldfrom=&amp;chfieldto=Now&amp;chfieldvalue=&amp;cmdtype=doit&amp;order=Reuse+same+sort+as+last+time&amp;field0-0-0=noop&amp;type0-0-0=noop&amp;value0-0-0=" />
+      <proposed
+        bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;short_desc_type=allwordssubstr&amp;short_desc=api&amp;classification=Tools&amp;product=UOMo&amp;target_milestone=3.5&amp;long_desc_type=allwordssubstr&amp;long_desc=&amp;bug_file_loc_type=allwordssubstr&amp;bug_file_loc=&amp;status_whiteboard_type=allwordssubstr&amp;status_whiteboard=&amp;keywords_type=allwords&amp;keywords=plan&amp;priority=P2&amp;priority=P3&amp;priority=P4&amp;priority=P5&amp;emailtype1=substring&amp;email1=&amp;emailtype2=notregexp&amp;email2=&amp;bugidtype=include&amp;bug_id=&amp;votes=&amp;chfieldfrom=&amp;chfieldto=Now&amp;chfieldvalue=&amp;cmdtype=doit&amp;order=Reuse+same+sort+as+last+time&amp;field0-0-0=noop&amp;type0-0-0=noop&amp;value0-0-0=" />
+      <deferred
+        bugzilla="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&amp;short_desc_type=allwordssubstr&amp;short_desc=api&amp;classification=Tools&amp;product=UOMo&amp;target_milestone=3.6&amp;long_desc_type=allwordssubstr&amp;long_desc=&amp;bug_file_loc_type=allwordssubstr&amp;bug_file_loc=&amp;status_whiteboard_type=allwordssubstr&amp;status_whiteboard=&amp;keywords_type=allwords&amp;keywords=plan&amp;emailtype1=substring&amp;email1=&amp;emailtype2=notregexp&amp;email2=&amp;bugidtype=include&amp;bug_id=&amp;votes=&amp;chfieldfrom=&amp;chfieldto=Now&amp;chfieldvalue=&amp;cmdtype=doit&amp;order=Reuse+same+sort+as+last+time&amp;field0-0-0=noop&amp;type0-0-0=noop&amp;value0-0-0=" />
+    </theme>
+  </themes_and_priorities>
+</plan>
