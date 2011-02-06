@@ -17,6 +17,7 @@
 <h2>$pageTitle</h2>
 <p>All downloads are provided under the terms and conditions of the <a href="/legal/epl/notice.php">Eclipse Foundation Software User Agreement</a> unless otherwise specified.</p>
 
+<h3>
 <h3>Eclipse UOMo 0.6 RC1</h3>
 <p><!-- b>Update site:</b> http://download.eclipse.org/myproject/<br / -->
 <b>ZIP file: </b><a href="/uomo/downloads/uomo-0.6.0.RC1.zip">uomo-0.6.0.RC1.zip</a> (235 kB)</p>
