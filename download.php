@@ -18,9 +18,9 @@
 <p>All downloads are provided under the terms and conditions of the <a href="/legal/epl/notice.php">Eclipse Foundation Software User Agreement</a> unless otherwise specified.</p>
 
 <h3>
-<h3>Eclipse UOMo 0.6 RC1</h3>
+<h3>Eclipse UOMo 0.6 RC2</h3>
 <p><!-- b>Update site:</b> http://download.eclipse.org/myproject/<br / -->
-<b>ZIP file: </b><a href="/uomo/downloads/uomo-0.6.0.RC1.zip">uomo-0.6.0.RC1.zip</a> (235 kB)</p>
+<b>ZIP file: </b><a href="/uomo/downloads/uomo-0.6.0.RC2.zip">uomo-0.6.0.RC2.zip</a> (570 kB)</p>
 
 <!-- h3>Indigo - Eclipse 3.7 (unreleased)</h3>
 <p><b>Update site:</b> http://download.eclipse.org/myproject/<br />
