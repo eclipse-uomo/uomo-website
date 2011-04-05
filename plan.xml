@@ -35,9 +35,15 @@
       <html:div>Release Candidate (API and Feature Complete)</html:div>
     </milestone>
     <milestone date="2011-02-07" milestone="0.6 RC2">
+      <html:div>Release Candidate 2</html:div>
+    </milestone>
+    <milestone date="2011-04-20" milestone="0.6 RC3">
+      <html:div>Release Candidate 3</html:div>
+    </milestone>
+    <milestone date="2011-05-05" milestone="0.6 RC4">
       <html:div>Release Candidate (Final Build)</html:div>
     </milestone>
-    <milestone date="2011-02-11" milestone="0.6">
+    <milestone date="2011-06-20" milestone="0.6">
       <html:div>Major Release</html:div>
     </milestone>
     <postamble>
@@ -51,16 +57,16 @@
               <td>
                 <b>0.7</b>
               </td>
-              <td>2011-06-22</td>
+              <td>2011-10</td>
               <td>
-                <div>Major Release (Indigo)</div>
+                <div>Next Release</div>
               </td>
             </tr>
             <tr>
               <td>
                 <b>0.8</b>
               </td>
-              <td>2011-11</td>
+              <td>2011-12</td>
               <td>
                 <div>Major Release (Java 7)</div>
               </td>
