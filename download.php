@@ -19,7 +19,7 @@
 
 <h3>
 <h3>Eclipse UOMo 0.6 RC2</h3>
-<p><b>Update site:</b> http://download.eclipse.org/uomo/<br/>
+<p><b>Update site:</b><a href="http://download.eclipse.org/uomo/rc2"</a><br/>
 <!-- b>ZIP file: </b><a href="/uomo/downloads/uomo-0.6.0.RC2.zip">uomo-0.6.0.RC2.zip</a> (590 kB)</p -->
 
 <!-- h3>Indigo - Eclipse 3.7 (unreleased)</h3>
