@@ -37,10 +37,7 @@
     <milestone date="2011-02-07" milestone="0.6 RC2">
       <html:div>Release Candidate 2</html:div>
     </milestone>
-    <milestone date="2011-04-20" milestone="0.6 RC3">
-      <html:div>Release Candidate 3</html:div>
-    </milestone>
-    <milestone date="2011-05-05" milestone="0.6 RC4">
+    <milestone date="2011-06-05" milestone="0.6 RC3">
       <html:div>Release Candidate (Final Build)</html:div>
     </milestone>
     <milestone date="2011-06-20" milestone="0.6">
