@@ -32,6 +32,10 @@
 
 </div>
 
+<div id="midcolumn">
+<p/>
+</div>
+
 <div id="rightcolumn">
 
   <div>
