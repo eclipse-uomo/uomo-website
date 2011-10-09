@@ -13,6 +13,8 @@
 	$pageTitle 		= "UOMo - Download";
 
 	$html  = <<<EOHTML
+<div>
+</div>
 
 <div id="midcolumn">
 <h2>$pageTitle</h2>
