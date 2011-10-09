@@ -31,6 +31,21 @@
 
 
 </div>
+
+<div id="rightcolumn">
+
+  <div>
+  <h3>Incubation</h3>
+  <center>
+    <a href="http://www.eclipse.org/projects/what-is-incubation.php">
+      <img src="http://www.eclipse.org/images/egg-incubation.png" border="0" alt="Incubation"/>
+    </a>
+  </center>
+  <p>UOMo is in the <a href="http://www.eclipse.org/projects/dev_process/incubation-phase.php">Incubation Phase</a>.</p>
+  </div>
+  
+</div>
+
 EOHTML;
 	# Generate the web page
 	$App->generatePage($theme, $Menu, $Nav, $pageAuthor, $pageKeywords, $pageTitle, $html);
