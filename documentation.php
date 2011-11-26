@@ -17,11 +17,12 @@
 <h2>$pageTitle</h2>
 <p>All documents are provided under the terms and conditions of the <a href="/legal/epl/notice.php">Eclipse Foundation Software User Agreement</a> unless otherwise specified.</p>
 
+<div style="width:425px" id="__ss_6119693"> <strong style="display:block;margin:12px 0 4px"><a href="http://www.slideshare.net/keilw/eclipse-uomo" title="Eclipse UOMo" target="_blank">Eclipse UOMo</a></strong> <iframe src="http://www.slideshare.net/slideshow/embed_code/6119693" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe> <div style="padding:5px 0 12px"> View more <a href="http://www.slideshare.net/" target="_blank">presentations</a> from <a href="http://www.slideshare.net/keilw" target="_blank">Werner Keil</a> </div> </div>
+
 <h3>
 <h3>The UOMo Code</h3>
 <h4>Chennai JUG Meeting</h4>
 <p><a href="http://weblogs.java.net/blog/editor/archive/2010/12/15/chennai-jug-meeting-features-presentation-eclipse-uomo-project">Java.net Article about the JUG Meeting and UOMo</a></p>
-<div style="width:425px" id="__ss_6119693"><strong style="display:block;margin:12px 0 4px"><a href="http://www.slideshare.net/keilw/eclipse-uomo" title="Eclipse UOMo">Eclipse UOMo</a></strong><object id="__sse6119693" width="425" height="355"><param name="movie" value="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=uomo2011-101211150956-phpapp01&stripped_title=eclipse-uomo&userName=keilw" /><param name="allowFullScreen" value="true"/><param name="allowScriptAccess" value="always"/><embed name="__sse6119693" src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=uomo2011-101211150956-phpapp01&stripped_title=eclipse-uomo&userName=keilw" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="355"></embed></object><div style="padding:5px 0 12px">View more <a href="http://www.slideshare.net/">presentations</a> from <a href="http://www.slideshare.net/keilw">Werner Keil</a>.</div></div>
 
 <h3>UOMo and Embedded Measurement</h3>
 <p><b>Wiki site:</b> <a href="http://wiki.eclipse.org/Eclipse_Embedded_Day_Stuttgart_2010">Eclipse_Embedded_Day_Stuttgart_2010</a><br/>
