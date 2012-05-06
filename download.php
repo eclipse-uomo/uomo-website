@@ -26,7 +26,7 @@
 <!-- b>ZIP file: </b><a href="/uomo/downloads/uomo-0.6.0.RC2.zip">uomo-0.6.0.RC2.zip</a> (590 kB)</p -->
 
 <h3>Eclipse UOMo 0.6 RC3 (Incubation)</h3>
-<p><b>Update site:&nbsp</b> http://download.eclipse.org/uomo/rc3/">http://download.eclipse.org/uomo/rc3/<br/>
+<p><b>Update site:&nbsp</b> http://download.eclipse.org/uomo/rc3/<br/>
 
 <!-- h3>Indigo - Eclipse 3.7 (unreleased)</h3>
 <p><b>Update site:</b> http://download.eclipse.org/myproject/<br/>
