@@ -28,6 +28,9 @@
 <h3>Eclipse UOMo 0.6 RC3 (Incubation)</h3>
 <p><b>Update site:&nbsp</b> http://download.eclipse.org/uomo/rc3/<br/>
 
+<h3>Eclipse UOMo 0.6 RC4 (Incubation)</h3>
+<p><b>Update site:&nbsp</b> http://download.eclipse.org/uomo/rc4/<br/>
+
 <!-- h3>Indigo - Eclipse 3.7 (unreleased)</h3>
 <p><b>Update site:</b> http://download.eclipse.org/myproject/<br/>
 <b>ZIP file: </b><a href="/downloads/download.php?file=/myproject/file.zip">file.zip</a> (10 MiB)</p -->
