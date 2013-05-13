@@ -20,15 +20,8 @@
 <h2>$pageTitle</h2>
 <p>All downloads are provided under the terms and conditions of the <a href="/legal/epl/notice.php">Eclipse Foundation Software User Agreement</a> unless otherwise specified.</p>
 
-<!-- h3>
-<h3>Eclipse UOMo 0.6 RC2</h3>
-<p><b>Update site:&nbsp</b><a href="http://download.eclipse.org/uomo/rc2/">http://download.eclipse.org/uomo/rc2/</a><br/ -->
-<!-- b>ZIP file: </b><a href="/uomo/downloads/uomo-0.6.0.RC2.zip">uomo-0.6.0.RC2.zip</a> (590 kB)</p -->
-
-<!--
-<h3>Eclipse UOMo 0.6 RC3 (Incubation)</h3>
-<p><b>Update site:&nbsp</b> http://download.eclipse.org/uomo/rc3/<br/>
--->
+<h3>Eclipse UOMo 0.6 (Incubation)</h3>
+<p><b>Update site:&nbsp</b> http://download.eclipse.org/uomo/0.6/repository/<br/>
 
 <h3>Eclipse UOMo 0.6 RC4 (Incubation)</h3>
 <p><b>Update site:&nbsp</b> http://download.eclipse.org/uomo/rc4/<br/>
