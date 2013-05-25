@@ -23,8 +23,10 @@
 <h3>Eclipse UOMo 0.6 (Incubation)</h3>
 <p><b>Update site:&nbsp</b> http://download.eclipse.org/uomo/0.6/repository/<br/>
 
-<h3>Eclipse UOMo 0.6 RC4 (Incubation)</h3>
-<p><b>Update site:&nbsp</b> http://download.eclipse.org/uomo/rc4/<br/>
+<p><b>Repository Archive for Offline installation:&nbsp</b><a href="http://download.eclipse.org/uomo/0.6/eclipse-repository-0.6.0-SNAPSHOT.zip">eclipse-repository-0.6.0-SNAPSHOT.zip</a><br/>
+
+<h3>Eclipse UOMo 0.6 for Kepler (Incubation)</h3>
+<p><b>Update site:&nbsp</b> http://download.eclipse.org/uomo/0.6/kepler/repository/<br/>
 
 <!-- h3>Indigo - Eclipse 3.7 (unreleased)</h3>
 <p><b>Update site:</b> http://download.eclipse.org/myproject/<br/>
