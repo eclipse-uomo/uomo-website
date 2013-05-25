@@ -28,9 +28,15 @@
 <h3>Eclipse UOMo 0.6 for Kepler (Incubation)</h3>
 <p><b>Update site:&nbsp</b> http://download.eclipse.org/uomo/0.6/kepler/repository/<br/>
 
+<p><b>Repository Archive for Offline installation:&nbsp</b><a href="http://download.eclipse.org/uomo/0.6/kepler/eclipse-repository-0.6.0-SNAPSHOT.zip">eclipse-repository-0.6.0-SNAPSHOT.zip</a><br/>
+Use this, if you are behind a <b>firewall</b>, have </b>proxy</b> problems with download sites in your corporate network of face similar issues.<br/>
+After downloading the archive, select it under "Install New Software" > "Add Repository" > "Archive..." to use it as offline repository.
+</p>
+
 <!-- h3>Indigo - Eclipse 3.7 (unreleased)</h3>
 <p><b>Update site:</b> http://download.eclipse.org/myproject/<br/>
 <b>ZIP file: </b><a href="/downloads/download.php?file=/myproject/file.zip">file.zip</a> (10 MiB)</p -->
+
 
 
 </div>
