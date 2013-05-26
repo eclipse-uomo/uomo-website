@@ -1,7 +1,7 @@
 <?php
 
 /*******************************************************************************
- * Copyright (c) 2009 Eclipse Foundation and others.
+ * Copyright (c) 2009, 2013 Eclipse Foundation and others.
  * All rights reserved. This program and the accompanying materials
  * are made available under the terms of the Eclipse Public License v1.0
  * which accompanies this distribution, and is available at
@@ -32,12 +32,12 @@
 	# $Nav->addCustomNav("Summary", "/projects/project_summary.php?projectid=technology.uomo", "_self", 3);
 	# $Nav->addCustomNav("Getting Involved", "/uomo/developers", "_blank", 3);
 	$Nav->addCustomNav("Wiki", "http://wiki.eclipse.org/UOMo", "_self", 3);
-    $Nav->addNavSeparator("Summary",   "/projects/project_summary.php?projectid=technology.uomo");
+    $Nav->addNavSeparator("Overview",   "/projects/project_summary.php?projectid=technology.uomo");
     
 	# Define keywords, author and title here, or in each PHP page specifically
 	$pageKeywords	= "uomo, unit, measurement, measure, domain specific language, ucum";
 	$pageAuthor		= "Werner Keil";
-	# $pageTitle 	= "UOmo";
+	# $pageTitle 	= "UOMo";
 
 
 	# top navigation bar
