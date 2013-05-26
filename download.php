@@ -23,7 +23,7 @@
 <h3>Eclipse UOMo 0.6 (Incubation)</h3>
 <p><b>Update site:&nbsp</b> http://download.eclipse.org/uomo/0.6/repository/<br/>
 
-<p><b>Repository Archive for Offline installation:&nbsp</b><a href="http://download.eclipse.org/uomo/0.6/eclipse-repository-0.6.0-SNAPSHOT.zip">eclipse-repository-0.6.0-SNAPSHOT.zip</a><br/>
+<p><b>Repository Archive to install Offline:&nbsp</b><a href="http://download.eclipse.org/uomo/0.6/eclipse-repository-0.6.0-SNAPSHOT.zip">eclipse-repository-0.6.0-SNAPSHOT.zip</a><br/>
 Use this, if you are behind a <b>firewall</b>, have <b>proxy</b> problems with update sites in your corporate network of face similar issues.<br/>
 After downloading the archive, select it under "Install New Software" > "Add Repository" > "Archive..." and use as offline repository.
 </p>
@@ -31,7 +31,7 @@ After downloading the archive, select it under "Install New Software" > "Add Rep
 <h3>Eclipse UOMo 0.6 for Kepler (Incubation)</h3>
 <p><b>Update site:&nbsp</b> http://download.eclipse.org/uomo/0.6/kepler/repository/<br/>
 
-<p><b>Repository Archive for Offline installation:&nbsp</b><a href="http://download.eclipse.org/uomo/0.6/kepler/eclipse-repository-0.6.0-SNAPSHOT.zip">eclipse-repository-0.6.0-SNAPSHOT.zip</a><br/>
+<p><b>Repository Archive to install Offline:&nbsp</b><a href="http://download.eclipse.org/uomo/0.6/kepler/eclipse-repository-0.6.0-SNAPSHOT.zip">eclipse-repository-0.6.0-SNAPSHOT.zip</a><br/>
 Use this, if you are behind a <b>firewall</b>, have <b>proxy</b> problems with update sites in your corporate network of face similar issues.<br/>
 After downloading the archive, select it under "Install New Software" > "Add Repository" > "Archive..." and use as offline repository.
 </p>
