@@ -17,7 +17,7 @@
 <h2>$pageTitle</h2>
 <p>All documents are provided under the terms and conditions of the <a href="/legal/epl/notice.php">Eclipse Foundation Software User Agreement</a> unless otherwise specified.</p>
 
-<a href="documentation.php">Recent presentations</a>
+<a href="documentation.php">Recent documentation</a>
 
 <h3>Earlier presentations</h3>
 
