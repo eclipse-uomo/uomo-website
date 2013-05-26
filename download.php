@@ -49,12 +49,7 @@ After downloading the archive, select it under "Install New Software" > "Add Rep
   <div>
   <h3>Incubation</h3>
   <center>
-    <a href="http://www.eclipse.org/projects/what-is-incubation.php">
-      <img src="http://www.eclipse.org/images/egg-incubation.png" border="0" alt="Incubation"/>
-    </a>
-
-	<div class="summary-block-item"><div class="project_state"><a class="incubating" href="http://www.eclipse.org/projects/what-is-incubation.php"></a></div>
-
+<div class="project_state"><a class="incubating" href="http://www.eclipse.org/projects/what-is-incubation.php"></a></div></div>
   </center>
   <p>UOMo is in the <a href="http://www.eclipse.org/projects/dev_process/incubation-phase.php">Incubation Phase</a>.</p>
   </div>
