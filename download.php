@@ -26,7 +26,7 @@
 	# $pageAuthor	= "Werner Keil";
 	$pageTitle 		= "UOMo &ndash; Download";
 
-	$html = file_get_contents('pages/_download.html');
+	$html = file_get_contents('pages/_index.html');
 
 	# Generate the web page
 	$App->generatePage($theme, $Menu, $Nav, $pageAuthor, $pageKeywords, $pageTitle, $html);
