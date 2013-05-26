@@ -31,7 +31,8 @@
 
 Also available in <b>German</b>: <a href="http://de.slideshare.net/keilw/typsichere-dsls">Typ-sichere DSLs</a>
 
-<a href="documentation2.php">Older documentation</a>
+<p>
+<a href="documentation2.php">Earlier presentations</a>
 
 </div>
 EOHTML;

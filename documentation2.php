@@ -17,6 +17,8 @@
 <h2>$pageTitle</h2>
 <p>All documents are provided under the terms and conditions of the <a href="/legal/epl/notice.php">Eclipse Foundation Software User Agreement</a> unless otherwise specified.</p>
 
+<a href="documentation.php">Recent presentations</a>
+
 <h3>Earlier presentations</h3>
 
 <div style="width:425px" id="__ss_6119693"> <strong style="display:block;margin:12px 0 4px"><a href="http://www.slideshare.net/keilw/eclipse-uomo" title="Eclipse UOMo" target="_blank">Eclipse UOMo</a></strong> <iframe src="http://www.slideshare.net/slideshow/embed_code/6119693" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe> <div style="padding:5px 0 12px"> View more <a href="http://www.slideshare.net/" target="_blank">presentations</a> from <a href="http://www.slideshare.net/keilw" target="_blank">Werner Keil</a> </div> </div>
