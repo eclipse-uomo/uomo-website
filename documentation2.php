@@ -21,6 +21,10 @@
 
 <h3>Earlier presentations</h3>
 
+<iframe src="http://www.slideshare.net/slideshow/embed_code/13360361" width="597" height="486" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="http://www.slideshare.net/keilw/typesafe-dsls" title="Type-safe DSLs" target="_blank">Type-safe DSLs</a> </strong> from <strong><a href="http://www.slideshare.net/keilw" target="_blank">Werner Keil</a></strong> </div>
+
+Also available in <b>German</b>: <a href="http://de.slideshare.net/keilw/typsichere-dsls">Typ-sichere DSLs</a>
+
 <div style="width:425px" id="__ss_6119693"> <strong style="display:block;margin:12px 0 4px"><a href="http://www.slideshare.net/keilw/eclipse-uomo" title="Eclipse UOMo" target="_blank">Eclipse UOMo</a></strong> <iframe src="http://www.slideshare.net/slideshow/embed_code/6119693" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe> <div style="padding:5px 0 12px"> View more <a href="http://www.slideshare.net/" target="_blank">presentations</a> from <a href="http://www.slideshare.net/keilw" target="_blank">Werner Keil</a> </div> </div>
 
 <h3>
