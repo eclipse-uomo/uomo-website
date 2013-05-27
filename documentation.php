@@ -19,7 +19,7 @@
 
 <h3>Documents</h3>
 <p>
-<b>Reference PDF: </b><a href="/uomo/documents/uomo-0.6.pdf">UOMo 0.6</a> (471 kB)</p>
+<b>PDF: </b><a href="/uomo/documents/uomo-0.6.pdf">UOMo 0.6 Reference</a> (471 kB)</p>
 
 <h3>Presentations</h3>
 <iframe src="http://www.slideshare.net/slideshow/embed_code/21949160" width="597" height="486" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen webkitallowfullscreen mozallowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="http://de.slideshare.net/keilw/geecon-2013-standards-for-the-future-of-java-embedded" title="geecon 2013 - Standards for the Future of Java Embedded" target="_blank">geecon 2013 - Standards for the Future of Java Embedded</a> </strong> from <strong><a href="http://de.slideshare.net/keilw" target="_blank">Werner Keil</a></strong> </div>
