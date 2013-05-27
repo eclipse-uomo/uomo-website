@@ -44,7 +44,7 @@ Also available in <b>German</b>: <a href="http://de.slideshare.net/keilw/typsich
 
 <h3>JSR-275 (Background)</h3>
 <p>
-<b>German Article for Java Magazin: </b><a href="http://ikayzo.org/svn/JSR275/trunk/jsr-275/doc/de/keil_jsr-275.doc">Keil_JSR275.doc</a> (102 kB)</p>
+<b>Specification Public Draft: </b><a href="http://www.unitsofmeasurement.org/legacy/JSR-275.odt">JSR-275.odt</a> OpenDocument (234 kB)</p>
 
 </div>
 EOHTML;
