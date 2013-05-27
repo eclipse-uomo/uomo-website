@@ -17,6 +17,11 @@
 <h2>$pageTitle</h2>
 <p>All documents are provided under the terms and conditions of the <a href="/legal/epl/notice.php">Eclipse Foundation Software User Agreement</a> unless otherwise specified.</p>
 
+<h3>Documents</h3>
+<p>
+<b>Reference PDF: </b><a href="/uomo/documents/uomo-0.6.pdf">UOMo 0.6</a> (471 kB)</p>
+
+<h3>Presentations</h3>
 <iframe src="http://www.slideshare.net/slideshow/embed_code/21949160" width="597" height="486" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen webkitallowfullscreen mozallowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="http://de.slideshare.net/keilw/geecon-2013-standards-for-the-future-of-java-embedded" title="geecon 2013 - Standards for the Future of Java Embedded" target="_blank">geecon 2013 - Standards for the Future of Java Embedded</a> </strong> from <strong><a href="http://de.slideshare.net/keilw" target="_blank">Werner Keil</a></strong> </div>
 
 <iframe src="http://www.slideshare.net/slideshow/embed_code/21248130" width="597" height="486" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen webkitallowfullscreen mozallowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="http://de.slideshare.net/keilw/m4m-2-the-rescue-of-m2m" title="M4M 2 the Rescue of M2M" target="_blank">M4M 2 the Rescue of M2M</a> </strong> from <strong><a href="http://de.slideshare.net/keilw" target="_blank">Werner Keil</a></strong> </div>
@@ -31,7 +36,7 @@
 
 <p>
 <p>
-<a href="documentation2.php">Earlier documentation</a>
+<a href="documentation2.php">Earlier presentations</a>
 
 </div>
 EOHTML;
