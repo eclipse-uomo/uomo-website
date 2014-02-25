@@ -40,7 +40,7 @@
     <milestone date="2011-06-05" milestone="0.6 RC3">
       <html:div>Release Candidate (Final Build)</html:div>
     </milestone>
-    <milestone date="2011-06-20" milestone="0.6">
+    <milestone date="2013-06-05" milestone="0.6">
       <html:div>Major Release</html:div>
     </milestone>
     <postamble>
@@ -54,27 +54,36 @@
               <td>
                 <b>0.7</b>
               </td>
-              <td>2011-10</td>
+              <td>2014-06</td>
               <td>
-                <div>Next Release</div>
+                <div>Next Release (CLDR 24)</div>
               </td>
             </tr>
             <tr>
               <td>
                 <b>0.8</b>
               </td>
-              <td>2011-12</td>
+              <td>2014-10</td>
               <td>
-                <div>Major Release (Java 7)</div>
+                <div>Major Release (CLDR 25)</div>
+              </td>
+            </tr>
+			<tr>
+              <td>
+                <b>0.9</b>
+              </td>
+              <td>2015-01</td>
+              <td>
+                <div>Major Release (Unit.next)</div>
               </td>
             </tr>
             <tr>
               <td>
                 <b>1.0</b>
               </td>
-              <td>2012-06</td>
+              <td>2015-06</td>
               <td>
-                <div>Major Release (Indigo+1)</div>
+                <div>Major Release (Mars)</div>
               </td>
             </tr>
           </table>
