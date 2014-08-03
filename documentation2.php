@@ -25,6 +25,9 @@
 
 Also available in <b>German</b>: <a href="http://de.slideshare.net/keilw/typsichere-dsls">Typ-sichere DSLs</a>
 
+Video: 
+<div class="freq-embed" style="width:640px;color:#666;font-family:'Helvetica Neue',Helvetica,Arial;font-weight:bold;font-size:640px;"><div><object width="640"  height="360" ><param name="allowfullscreen" value="true" /><param name="flashvars" value="api=1" /><param name="allowscriptaccess" value="always" /><param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=49670848&amp;server=vimeo.com&amp;show_title=0&amp;show_byline=0&amp;show_portrait=0&amp;color=&amp;fullscreen=1&amp;autoplay=true" /><embed src="http://vimeo.com/moogaloop.swf?clip_id=49670848&amp;server=vimeo.com&amp;show_title=0&amp;show_byline=0&amp;show_portrait=0&amp;color=&amp;fullscreen=1&amp;autoplay=true" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="640"  height="360" ></embed></object></div><div style="text-align:right;font-size:0.02em;margin-top:3px;">Watch more video from the <a  style="color:#0095DD;text-decoration:none;"  href="http://www.frequency.com/top">Staff Picks</a> channel on <a  style="color:#0095DD;text-decoration:none;"  href="http://www.frequency.com">Frequency</a></div></div>
+
 <div style="width:425px" id="__ss_6119693"> <strong style="display:block;margin:12px 0 4px"><a href="http://www.slideshare.net/keilw/eclipse-uomo" title="Eclipse UOMo" target="_blank">Eclipse UOMo</a></strong> <iframe src="http://www.slideshare.net/slideshow/embed_code/6119693" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe> <div style="padding:5px 0 12px"> View more <a href="http://www.slideshare.net/" target="_blank">presentations</a> from <a href="http://www.slideshare.net/keilw" target="_blank">Werner Keil</a> </div> </div>
 
 <h3>
