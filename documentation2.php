@@ -21,6 +21,9 @@
 <br>
 <br>
 </p>
+<p>
+<br>
+</p>
 <a href="documentation.php">Recent documentation</a>
 
 <h3>Earlier presentations</h3>
