@@ -23,6 +23,7 @@
 </p>
 <p>
 <br>
+<br>
 </p>
 <a href="documentation.php">Recent documentation</a>
 
@@ -71,7 +72,7 @@ Video:
 
 <h3>JSR-275 (Background)</h3>
 <p>
-<b>Specification Public Draft: </b><a href="http://www.unitsofmeasurement.org/legacy/JSR-275.odt">JSR-275.odt</a> OpenDocument (234 kB)</p>
+<b>Specification Public Draft: </b><a href="https://github.com/unitsofmeasurement/jsr-275/raw/master/src/doc/JSR-275.odt">JSR-275.odt</a> OpenDocument (234 kB)</p>
 
 <p>All documents are provided under the terms and conditions of the <a href="/legal/epl/notice.php">Eclipse Foundation Software User Agreement</a> unless otherwise specified.</p>
 
