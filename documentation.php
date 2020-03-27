@@ -16,8 +16,8 @@
 <div id="midcolumn">
 <h2>$pageTitle</h2>
 <p>
-<p>
-<p>All documents are provided under the terms and conditions of the <a href="/legal/epl/notice.php">Eclipse Foundation Software User Agreement</a> unless otherwise specified.</p>
+<br>
+</p>
 
 <h3>Documents</h3>
 <p>
@@ -42,6 +42,8 @@
 <p>
 <p>
 <a href="documentation2.php">Earlier presentations</a>
+
+<p>All documents are provided under the terms and conditions of the <a href="/legal/epl/notice.php">Eclipse Foundation Software User Agreement</a> unless otherwise specified.</p>
 
 </div>
 EOHTML;
