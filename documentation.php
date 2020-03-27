@@ -10,7 +10,7 @@
  *    
  *******************************************************************************/
 
-	$pageTitle 		= "UOMo - Documentation";
+	$pageTitle 		= "Documentation";
 
 	$html  = <<<EOHTML
 <div id="midcolumn">
@@ -21,7 +21,9 @@
 <br>
 <br>
 </p>
-
+<p>
+<br>
+</p>
 <h3>Documents</h3>
 <p>
 <a href="/uomo/documents/uomo-0.6.pdf">UOMo 0.6 Reference</a> (PDF: 471 kB)</p>

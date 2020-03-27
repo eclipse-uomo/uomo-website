@@ -10,13 +10,17 @@
  *    
  *******************************************************************************/
 
-	$pageTitle 		= "UOMo - Documentation";
+	$pageTitle 		= "Documentation";
 
 	$html  = <<<EOHTML
 <div id="midcolumn">
 <h2>$pageTitle</h2>
-<p>All documents are provided under the terms and conditions of the <a href="/legal/epl/notice.php">Eclipse Foundation Software User Agreement</a> unless otherwise specified.</p>
-
+<p>
+<br>
+<br>
+<br>
+<br>
+</p>
 <a href="documentation.php">Recent documentation</a>
 
 <h3>Earlier presentations</h3>
@@ -59,6 +63,8 @@ Video:
 <h3>JSR-275 (Background)</h3>
 <p>
 <b>Specification Public Draft: </b><a href="http://www.unitsofmeasurement.org/legacy/JSR-275.odt">JSR-275.odt</a> OpenDocument (234 kB)</p>
+
+<p>All documents are provided under the terms and conditions of the <a href="/legal/epl/notice.php">Eclipse Foundation Software User Agreement</a> unless otherwise specified.</p>
 
 </div>
 EOHTML;
