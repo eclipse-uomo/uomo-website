@@ -65,10 +65,11 @@ Video:
 <p><b>Wiki site:</b> <a href="http://wiki.eclipse.org/Eclipse_Embedded_Day_Stuttgart_2010">Eclipse_Embedded_Day_Stuttgart_2010</a><br/>
 <b>PDF file: </b><a href="http://wiki.eclipse.org/images/6/6a/UOMo_Embedded2010.pdf">UOMo_Embedded2010.pdf</a> (1.15 MB)</p>
 
+<a href="/uomo/documents/uomo-0.6.pdf">UOMo 0.6 Reference</a> (PDF: 471 kB)</p>
+
 <h3>UOMo UCUM</h3>
 <div style="width:425px" id="__ss_4619461"><strong style="display:block;margin:12px 0 4px"><a href="http://www.slideshare.net/bebeep66/werner-weil-ucum" title="Werner Weil: UCUM - epicenter 2010">Werner Weil: UCUM - epicenter 2010</a></strong><object id="__sse4619461" width="425" height="355"><param name="movie" value="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=wernerkeilucum-100626032608-phpapp01&stripped_title=werner-weil-ucum&userName=bebeep66" /><param name="allowFullScreen" value="true"/><param name="allowScriptAccess" value="always"/><embed name="__sse4619461" src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=wernerkeilucum-100626032608-phpapp01&stripped_title=werner-weil-ucum&userName=bebeep66" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="355"></embed></object><div style="padding:5px 0 12px">View more <a href="http://www.slideshare.net/">presentations</a> from <a href="http://www.slideshare.net/bebeep66">IrishDev.com</a>.</div></div>
 <b>PDF file: </b><a href="/uomo/documents/UOMo_UCUM2010.pdf">UOMo_UCUM2010.pdf</a> (1.16 MB)</p>
-
 
 <h3>JSR-275 (Background)</h3>
 <p>

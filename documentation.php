@@ -27,7 +27,6 @@
 </p>
 <h3>Documents</h3>
 <p>
-<a href="/uomo/documents/uomo-0.6.pdf">UOMo 0.6 Reference</a> (PDF: 471 kB)</p>
 
 <a href="/uomo/documents/EclipseUOMoTutorial.pdf">Eclipse UOMo Tutorial</a> (PDF: 2 MB)</p>
 
