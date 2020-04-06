@@ -63,7 +63,6 @@
     <p>
     <p>
     <a href="download2.php">Older downloads</a>
-
 </div>
 EOHTML;
 	# Generate the web page
