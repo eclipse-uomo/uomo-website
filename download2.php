@@ -30,14 +30,14 @@
 	<h3>Older Versions</h3>
 	
 	<h4>UOMo 0.7 for Kepler (Eclipse 4.3)</h4>
-	<p><b>Update site:&nbsp</b> http://download.eclipse.org/uomo/kepler/0.7/repository/<br/>
-	<p><b>Repository Archive to install Offline:&nbsp</b><a href="http://download.eclipse.org/uomo/kepler/0.7/eclipse-repository-0.7.0-SNAPSHOT.zip">eclipse-repository-0.7.0-SNAPSHOT.zip</a><br/>
+	<p><b>Update site:&nbsp</b> http://archive.eclipse.org/uomo/kepler/0.7/repository/<br/>
+	<p><b>Repository Archive to install Offline:&nbsp</b><a href="http://archive.eclipse.org/uomo/kepler/0.7/eclipse-repository-0.7.0-SNAPSHOT.zip">eclipse-repository-0.7.0-SNAPSHOT.zip</a><br/>
 	</p>
 	
 	<h4>UOMo 0.6 for Kepler (Eclipse 4.3)</h4>
-	<p><b>Update site:&nbsp</b> http://download.eclipse.org/uomo/kepler/0.6/repository/<br/>
+	<p><b>Update site:&nbsp</b> http://archive.eclipse.org/uomo/kepler/0.6/repository/<br/>
 	
-	<p><b>Repository Archive to install Offline:&nbsp</b><a href="http://download.eclipse.org/uomo/kepler/0.6/eclipse-repository-0.6.0.zip">eclipse-repository-0.6.0.zip</a><br/>
+	<p><b>Repository Archive to install Offline:&nbsp</b><a href="http://archive.eclipse.org/uomo/kepler/0.6/eclipse-repository-0.6.0.zip">eclipse-repository-0.6.0.zip</a><br/>
 	</p>
 
 </div>
