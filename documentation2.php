@@ -34,10 +34,6 @@
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/cHxQM853DOkgWd" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/keilw/eclipse-uomo" title="Eclipse UOMo" target="_blank">Eclipse UOMo</a> </strong> von <strong><a href="https://www.slideshare.net/keilw" target="_blank">Werner Keil</a></strong> </div>
 
-<h3>The UOMo Code</h3>
-<h4>Chennai JUG Meeting</h4>
-<p><a href="http://weblogs.java.net/blog/editor/archive/2010/12/15/chennai-jug-meeting-features-presentation-eclipse-uomo-project">Java.net Article about the JUG Meeting and UOMo</a></p>
-
 <h3>UOMo and Embedded Measurement</h3>
 <p><b>Wiki site:</b> <a href="http://wiki.eclipse.org/Eclipse_Embedded_Day_Stuttgart_2010">Eclipse_Embedded_Day_Stuttgart_2010</a><br/>
 <b>PDF file: </b><a href="http://wiki.eclipse.org/images/6/6a/UOMo_Embedded2010.pdf">UOMo_Embedded2010.pdf</a> (1.15 MB)</p>
