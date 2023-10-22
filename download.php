@@ -1,6 +1,6 @@
 <?php  																														require_once($_SERVER['DOCUMENT_ROOT'] . "/eclipse.org-common/system/app.class.php");	require_once($_SERVER['DOCUMENT_ROOT'] . "/eclipse.org-common/system/nav.class.php"); 	require_once($_SERVER['DOCUMENT_ROOT'] . "/eclipse.org-common/system/menu.class.php"); 	$App 	= new App();	$Nav	= new Nav();	$Menu 	= new Menu();		include($App->getProjectCommon());    # All on the same line to unclutter the user's desktop'
 /*******************************************************************************
- * Copyright (c) 2009, 2020
+ * Copyright (c) 2009, 2023
  * All rights reserved. This program and the accompanying materials
  * are made available under the terms of the Eclipse Public License v1.0
  * which accompanies this distribution, and is available at
@@ -28,7 +28,7 @@
 	<h3>Snapshot</h3>
 	
 	<h4>Eclipse UOMo 0.8 (Incubation)</h4>
-	<p><b>1. Unit Systems Update Site:&nbsp</b> https://dl.bintray.com/unitsofmeasurement/p2/systems.uom_p2_site/1.3a/<br/>
+	<p><b>1. Unit Systems Update Site:&nbsp</b> https://download.eclipse.org/uomo/dependency/uom-systems/1.3a/<br/>
 	<p><b>2. UOMo Update site:&nbsp</b> http://download.eclipse.org/uomo/0.8/repository/<br/>
 	<p><b>&nbsp&nbsp&nbspRepository Archive to install Offline:&nbsp</b><a href="http://download.eclipse.org/uomo/0.8/eclipse-repository-0.8.0-SNAPSHOT.zip">eclipse-repository-0.8.0-SNAPSHOT.zip</a><br/>
 	</p>
@@ -36,7 +36,7 @@
 	<h3>Stable</h3>
 	
 	<h4>Eclipse UOMo 0.7 (Incubation)</h4>
-	<p><b>1. Unit Systems Update Site:&nbsp</b> https://dl.bintray.com/unitsofmeasurement/p2/systems.uom_p2_site/0.7/<br/>
+	<p><b>1. Unit Systems Update Site:&nbsp</b> http://download.eclipse.org/uomo/third-party/repository/<br/>
 	<p><b>2. UOMo Update site:&nbsp</b> http://download.eclipse.org/uomo/0.7/repository/<br/>
 	<p><b>&nbsp&nbsp&nbspRepository Archive to install Offline:&nbsp</b><a href="http://download.eclipse.org/uomo/0.7/eclipse-repository-0.7.0.zip">eclipse-repository-0.7.0.zip</a><br/>
 	<br/>	
