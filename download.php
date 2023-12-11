@@ -27,13 +27,17 @@
 </p>
 	<h3>Snapshot</h3>
 	
+	<h4>Eclipse UOMo 1.0 Snapshot (Incubation)</h4>
+	<p><b>&nbsp&nbsp&nbspRepository Archive to install Offline:&nbsp</b><a href="http://download.eclipse.org/uomo/latest/eclipse-repository-1.0.0-SNAPSHOT.zip">eclipse-repository-1.0.0-SNAPSHOT.zip</a><br/>
+	</p>
+			
+	<h3>Stable</h3>
+	
 	<h4>Eclipse UOMo 0.8 (Incubation)</h4>
 	<p><b>1. Unit Systems Update Site:&nbsp</b> https://download.eclipse.org/uomo/dependency/uom-systems/1.3a/<br/>
 	<p><b>2. UOMo Update site:&nbsp</b> http://download.eclipse.org/uomo/0.8/repository/<br/>
 	<p><b>&nbsp&nbsp&nbspRepository Archive to install Offline:&nbsp</b><a href="http://download.eclipse.org/uomo/0.8/eclipse-repository-0.8.0-SNAPSHOT.zip">eclipse-repository-0.8.0-SNAPSHOT.zip</a><br/>
-	</p>
-			
-	<h3>Stable</h3>
+	</p>	
 	
 	<h4>Eclipse UOMo 0.7 (Incubation)</h4>
 	<p><b>1. Unit Systems Update Site:&nbsp</b> http://download.eclipse.org/uomo/third-party/repository/<br/>
